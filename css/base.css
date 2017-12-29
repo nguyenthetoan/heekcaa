@@ -229,7 +229,7 @@ span.wpcf7-form-control-wrap{width:100%;position:relative!important;display:inli
 span.wpcf7-form-control-wrap .wpcf7-date,span.wpcf7-form-control-wrap .wpcf7-quiz,span.wpcf7-form-control-wrap .wpcf7-number,span.wpcf7-form-control-wrap .wpcf7-select,span.wpcf7-form-control-wrap .wpcf7-text,span.wpcf7-form-control-wrap .wpcf7-textarea{width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin-bottom:0}
 .wpcf7-submit{margin-bottom:0!important}
 
-/* Contact Form 7 | Popup */	
+/* Contact Form 7 | Popup */
 #popup_contact{position:fixed;right:20px;bottom:20px;z-index:9001}
 .nice-scroll #popup_contact{right:30px}
 #popup_contact > a.button{width:42px;height:42px;line-height:42px;font-size:20px;margin:0;text-align:center;color:rgba(0,0,0,.5);background:#f7f7f7;position:absolute;bottom:0;right:0}
@@ -477,7 +477,7 @@ body.admin-bar						{ position:relative;}
 /* Wrap | Equal Height */
 .equal-height-wrap .mcb-wrap .mcb-wrap-inner { position:relative; float:left; width:100%;}
 
-.equal-height-wrap .mcb-wrap.valign-middle .mcb-wrap-inner { top:50%; 
+.equal-height-wrap .mcb-wrap.valign-middle .mcb-wrap-inner { top:50%;
 	-webkit-transform:translateY(-50%); -moz-transform:translateY(-50%); -ms-transform:translateY(-50%); -o-transform:translateY(-50%); transform:translateY(-50%);}
 .equal-height-wrap .mcb-wrap.valign-bottom .mcb-wrap-inner { top:100%;
 	-webkit-transform:translateY(-100%); -moz-transform:translateY(-100%); -ms-transform:translateY(-100%); -o-transform:translateY(-100%); transform:translateY(-100%);}
@@ -592,3 +592,5 @@ body.admin-bar						{ position:relative;}
 .clearfix:after{clear:both}
 .clearfix{zoom:1}
 .clear{clear:both;display:block;overflow:hidden;visibility:hidden;width:0;height:0}
+
+.select-city { text-align: center;}
